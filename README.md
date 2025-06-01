@@ -12,7 +12,7 @@ This Power BI project analyzes employee attrition data to uncover trends based o
 ## 📂 Files Included
 - `hr_analytics.pbix`: Power BI report file
 - `HR_Dashboard.png`: Dashboard preview
-- `hr_analytics.csv`: (optional) Sample dataset used in the report
+- `hr_analytics.csv`: Sample dataset used in the report
 
 ## 📷 Dashboard Preview
 ![Dashboard Preview](HR_Dashboard.png)
