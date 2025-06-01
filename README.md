@@ -10,9 +10,9 @@ This Power BI project analyzes employee attrition data to uncover trends based o
 - **Key Attrition Factors**: Age group 26–35, roles like Laboratory Technician & Sales Executive
 
 ## 📂 Files Included
-- `HR_Analytics_Dashboard.pbix`: Power BI report file
-- `Screenshot.png`: Dashboard preview
-- `hr_data.csv`: (optional) Sample dataset used in the report
+- `hr_analytics.pbix`: Power BI report file
+- `HR_Dashboard.png`: Dashboard preview
+- `hr_analytics.csv`: (optional) Sample dataset used in the report
 
 ## 📷 Dashboard Preview
 ![Dashboard Preview](HR_Dashboard.png)
